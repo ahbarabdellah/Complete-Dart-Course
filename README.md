@@ -44,7 +44,7 @@
 
 
 
-### Information:
+### Information About Dart:
 - Developer: Google
 - Stable release: 2.14.1 / 8 September 2021; 37 days ago
 - First appeared: October 10, 2012; 9 years ago
@@ -60,3 +60,6 @@ I create this course to help pepole to understand dart with concrute exmple and 
 
 ### What is the next STEP ? 
 to learn Flutter : flutter will help you to create mobile app for android, IOS, web and descktop. I will create as soon as possible a new course for flutter.
+
+### Me:
+# Ahbar Abdellah
