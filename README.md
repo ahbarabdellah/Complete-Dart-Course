@@ -37,10 +37,10 @@
 29. [OOP in Dart _(Cascade operator)_](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/29.%20cascade%20operator%20.dart)<br>
 30. [Collection _(List,Map,Set ...)_](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/30.%20collection%20.dart)<br>
 31. [Generics](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/31.%20Generics%20.dart)<br>
-32. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/32.%20Exception%20.dart)<br>
-33. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/33.%20throw%20errors%20.dart)<br>
-34. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/34.%20define%20exception%20.dart)<br>
-35. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/35.%20Typedef%20.dart)<br>
+32. [Exception](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/32.%20Exception%20.dart)<br>
+33. [Throw Errors](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/33.%20throw%20errors%20.dart)<br>
+34. [Define Exception in Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/34.%20define%20exception%20.dart)<br>
+35. [Typedef](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/35.%20Typedef%20.dart)<br>
 
 
 
