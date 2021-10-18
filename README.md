@@ -3,7 +3,7 @@
 ### Dart : 
 *is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. Dart is an object-oriented, class-based, garbage-collected language with C-style syntax.* __Wikipedia__
 
-### Structer of the course :
+### Structure of the course :
 1. [Hello Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/1.%20hello%20world.dart)<br>
 2. [Structure of dart program](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/2.%20simple%20dart%20program.dart)<br>
 3. [Import laibreries](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/3.%20import%20core%20package.dart)<br>
@@ -19,16 +19,16 @@
 12. [For Loop](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/12.%20for%20loop%20in%20.dart)<br>
 12.1. [Continue Statment](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/12.1%20continue.dart)<br>
 13. [While Statment](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/13.%20while%20statment.dart)<br>
-14. []() <br>
-15. []() <br>
-16. []() <br>
-17. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/17.%20string%20.dart)<br>
-18. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/18.%20Boolean.dart)<br>
-19. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/19.%20map%20.dart)<br>
-20. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/20.%20interface%20.dart)<br>
-21. [](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/21.%20classes%20%26%20constructer.dart)<br>
-22. <br>
-23. []()<br>
+14. [List](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/14.%20list%20in%20.dart) <br>
+15. [Function](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/15.%20function%20in%20.dart) <br>
+16. [Numbers in Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/16.%20Dart%20Programming%20-%20Numbers%20.dart) <br>
+17. [String in Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/17.%20string%20.dart)<br>
+18. [Boolean in Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/18.%20Boolean.dart)<br>
+19. [Map or Dict in dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/19.%20map%20.dart)<br>
+20. [OOP in Dart _(Intrfaces)_](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/20.%20interface%20.dart)<br>
+21. [OOP in Dart _(Constructors)_](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/21.%20classes%20%26%20constructer.dart)<br>
+22. [OOP in Dart _(Named Constructor)_]()<br>
+23. [OOP in Dart _(This. key word)_]()<br>
 24. []()<br>
 25. []()<br>
 26. []()<br>
