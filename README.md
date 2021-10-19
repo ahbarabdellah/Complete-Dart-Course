@@ -46,8 +46,8 @@
 
 ### Information About Dart:
 - Developer: Google
-- Stable release: 2.14.1 / 8 September 2021; 37 days ago
-- First appeared: October 10, 2012; 9 years ago
+- Stable release: 2.14.1 / 8 September 2021;
+- First appeared: October 10, 2012;
 - Designed by: Lars Bak and Kasper Lund
 - License: BSD
 - Filename extensions: dart
@@ -55,7 +55,9 @@
 
 
 ### Desclaime :
-I create this course to help pepole to understand dart with concrute exmple and to test my self in one of my favorite technologies. This course follow an horizantal structure to made it easy for any student to understand dart.
+I create this course to help pepole to understand dart with concrute exmple and to test my self in one of my favorite technologies. This course follow an horizantal structure to made it easy for any student to understand dart. 
+to profit of this courese download those exemples and play with them in your machine
+
 
 
 ### What is the next STEP ? 
