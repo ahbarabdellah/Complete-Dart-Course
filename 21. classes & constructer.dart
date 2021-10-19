@@ -1,5 +1,5 @@
 /* dart doesn't proovide a direct way to define interfaces 
-inatead of that you can create interfaces using classes and implement from this 
+inatead of that you can create interfaces using classes and implement from those
 classes properieties 
 
 constructor is a hyper methode in class default constructer is create 
