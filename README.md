@@ -3,6 +3,12 @@
 ### Dart : 
 *is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. Dart is an object-oriented, class-based, garbage-collected language with C-style syntax.* __Wikipedia__
 
+### Install dart :
+1. download dart : [Dart](https://gekorm.com/dart-windows/)
+2. install dart
+3. download VS code : [Visual Studio Code](https://code.visualstudio.com/)
+4. install dart extention in VS code
+
 ### Structure of the course :
 1. [Hello Dart](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/1.%20hello%20world.dart)<br>
 2. [Structure of dart program](https://github.com/ahbarabdellah/Complete-Dart-Course/blob/main/2.%20simple%20dart%20program.dart)<br>
